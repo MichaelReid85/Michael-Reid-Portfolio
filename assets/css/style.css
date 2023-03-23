@@ -196,7 +196,7 @@ ul {
 .scroll-content {
     /* transform: translate(0) !important; */
 }
-main.drake-main {
+main.mike-main {
     /* inset: 0px;
     width: 100%;
     height: 100vh;
@@ -671,7 +671,7 @@ main.drake-main {
     padding: 50px;
     z-index: 10;
 }
-.drake-main .left-sidebar {
+.mike-main .left-sidebar {
     display: none;
 }
 .left-sidebar > img.me {
