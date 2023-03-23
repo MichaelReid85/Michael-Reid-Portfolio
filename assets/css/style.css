@@ -571,6 +571,8 @@ main.mike-main {
 }
 .header-area .logo img {
     display: block;
+    border: 50%;
+    
 }
 .header-area nav {
     transition: .3s;
