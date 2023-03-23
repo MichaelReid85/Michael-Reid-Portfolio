@@ -568,6 +568,7 @@ main.mike-main {
 }
 .header-area .logo {
     display: block;
+    size: 50%;
 }
 .header-area .logo img {
     display: block;
