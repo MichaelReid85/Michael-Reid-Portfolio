@@ -1267,7 +1267,6 @@ body .body-overlay {
 .contact-area .contact-content h3 {
     font-size: 24px;
     color: #fff;
-    background: transparent;
     font-weight: 300;
     margin-bottom: 60px;
 }
@@ -1282,6 +1281,7 @@ body .body-overlay {
 }
 .contact-area .contact-content .contact-form .input-group {
     margin-bottom: 34px;
+    background: transparent;
 }
 .contact-area .contact-content .contact-form .input-group label {
     display: block;
