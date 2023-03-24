@@ -1305,8 +1305,7 @@ body .body-overlay {
     color: #ffffff;
     width: 100%;
     border: none;
-    background-color: transparent;
-    background: none;
+    background: transparent;
     font-size: 18px;
     padding: 0;
     transition: .2s;
