@@ -1302,9 +1302,10 @@ body .body-overlay {
 .contact-area .contact-content .contact-form .input-group textarea,
 .contact-area .contact-content .contact-form .input-group input {
     display: block;
-    color: #000000;
+    color: #ffffff;
     width: 100%;
     border: none;
+    background-color: transparent;
     background: none;
     font-size: 18px;
     padding: 0;
