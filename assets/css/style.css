@@ -1298,10 +1298,10 @@ body .body-overlay {
     color: #999999;
     text-transform: none;
 }
-.contact-area .contact-content .contact-form .input-group select {
+.contact-area .contact-content .contact-form .input-group select,
+.contact-area .contact-content .contact-form .input-group textarea {
     background: transparent;
 }
-.contact-area .contact-content .contact-form .input-group textarea,
 .contact-area .contact-content .contact-form .input-group input {
     display: block;
     color: #fff;
