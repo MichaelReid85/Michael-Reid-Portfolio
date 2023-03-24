@@ -1298,7 +1298,9 @@ body .body-overlay {
     color: #999999;
     text-transform: none;
 }
-.contact-area .contact-content .contact-form .input-group select,
+.contact-area .contact-content .contact-form .input-group select {
+    background: transparent;
+}
 .contact-area .contact-content .contact-form .input-group textarea,
 .contact-area .contact-content .contact-form .input-group input {
     display: block;
@@ -1310,9 +1312,6 @@ body .body-overlay {
     padding: 0;
     transition: .2s;
     padding-bottom: 3px;
-}
-#subject{
-    background: transparent;
 }
 .contact-area .contact-content .contact-form .input-group textarea {
     height: 140px;
