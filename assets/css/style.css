@@ -1299,15 +1299,13 @@ body .body-overlay {
     text-transform: none;
 }
 .contact-area .contact-content .contact-form .input-group select,
-.contact-area .contact-content .contact-form .input-group textarea {
-    background: transparent;
-}
+.contact-area .contact-content .contact-form .input-group textarea,
 .contact-area .contact-content .contact-form .input-group input {
     display: block;
     color: #fff;
     width: 100%;
     border: none;
-    background: none;
+    background: transparent;
     font-size: 18px;
     padding: 0;
     transition: .2s;
