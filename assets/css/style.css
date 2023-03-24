@@ -571,8 +571,6 @@ main.mike-main {
 }
 .header-area .logo img {
     display: block;
-    max-width: 200px;
-    max-height: 80px;
 }
 .header-area nav {
     transition: .3s;
