@@ -1311,6 +1311,9 @@ body .body-overlay {
     transition: .2s;
     padding-bottom: 3px;
 }
+#subject{
+    background: transparent;
+}
 .contact-area .contact-content .contact-form .input-group textarea {
     height: 140px;
     border-bottom: 1px solid #555555;
