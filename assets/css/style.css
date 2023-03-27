@@ -1258,7 +1258,7 @@ body .body-overlay {
     text-decoration: underline;
 }
 
-a:hover {
+.pricing-table-items .info a:hover {
     color: #fff;
 }
 
