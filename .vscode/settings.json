@@ -1,4 +1,4 @@
 {
-    "php.validate.executablePath": "C://wamp64//bin//php//php8.2.11//php.exe",
-    "php.executablePath": "C://wamp64//bin//php//php8.2.11//php.exe",
+    "php.validate.executablePath": "c:/Users/Mike/Documents/php-8.2.11-Win32-vs16-x64",
+    "php.executablePath": "c:/Users/Mike/Documents/php-8.2.11-Win32-vs16-x64",
 }
