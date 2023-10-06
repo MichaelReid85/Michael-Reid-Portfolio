@@ -1,4 +1,4 @@
 {
-    "php.validate.executablePath": "",
- 
+    "php.executablePath": "C:\\PHP\\php.exe",
+    "php.validate.executablePath": "C:\\PHP\\php.exe"
 }
